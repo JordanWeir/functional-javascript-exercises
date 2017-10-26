@@ -1,3 +1,16 @@
 [
-    "TEST_EXERCISE"
+    "TEST_EXERCISE",
+    "Partial Application",
+    "Currying",
+    "Simple Composition",
+    "Rebuilding the Compose Function",
+    "Predicates",
+    "Filters",
+    "Rejects",
+    "Precondition with Compose - Part A",
+    "Preconditions with Compose - Part B",
+    "Preconditions with Compose - Part C",
+    "Postconditions with Compose - Part A",
+    "Postconditions with Compose - Part B",
+    "Postconditions with Compose - Part C"
 ]
